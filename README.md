@@ -9,7 +9,8 @@ Getting Started
 Prerequisites
 
 Install the package random to randomly choose a word from array
-- 	import random
+
+ 	import random
 
 Understanding Code
 
@@ -24,12 +25,11 @@ In main we will take input from user and check if this is already guessed letter
 
 Executing the program
 
-step 1:- run the finalproj.py file
-step 2:- enter letter to guess the given word
+	step 1:- run the finalproj.py file
+	step 2:- enter letter to guess the given word
 		 (only 1 letter at a time)
 
 
-Acknowledgments
+##Acknowledgments
 
 The idea was taken from https://www.pythonforbeginners.com/code-snippets-source-code/game-hangman .
-
