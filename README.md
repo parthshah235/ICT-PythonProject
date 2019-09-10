@@ -28,8 +28,3 @@ Executing the program
 	step 1:- run the finalproj.py file
 	step 2:- enter letter to guess the given word
 		 (only 1 letter at a time)
-
-
-##Acknowledgments
-
-The idea was taken from https://www.pythonforbeginners.com/code-snippets-source-code/game-hangman .
